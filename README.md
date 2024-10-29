@@ -20,7 +20,6 @@ h5 {
 </style>
 
 
-<h1 id="hidingcells">TREE-Folder-structre-on-ZIP-files</h1>
 
 # TREE-Folder-structre-on-ZIP-files
 
