@@ -1,24 +1,4 @@
 
-<style>
-
-h1 {
-  color: green;
-}
-h2 {
-  color: RED;
-}
-h3 {
-  color: yellow;
-}
-h4 {
-  color: pink;
-}
-h5 {
-  color: cyan;
-}
-
-</style>
-
 
 
 # TREE-Folder-structre-on-ZIP-files
